@@ -4,7 +4,7 @@ analise-producao-power-bi
 
 
 
-### CAPA
+### Home
 ![capa](https://user-images.githubusercontent.com/56509130/210861689-1a534626-364b-4713-897d-389f48f8884a.png)
 
 ### Overview
